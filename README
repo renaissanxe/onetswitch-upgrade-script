@@ -1,0 +1,4 @@
+This script is for upgrade onetswitch stacks, it will auto upgrade hardware and specific software.
+ONetSwitch 20/45 is based on Xilinx Zynq SoC, so this project is also fit for upgrade any Zynq system.
+
+
